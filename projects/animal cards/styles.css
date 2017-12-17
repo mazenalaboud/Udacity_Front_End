@@ -17,7 +17,7 @@ h1 {
 }
 ul {
     list-style-type: none;
-    padding-left: 0px;
+    padding-left: 0;
 }
 .main {
     border: 1px solid #cecece;
